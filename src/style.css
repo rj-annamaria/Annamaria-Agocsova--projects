@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #7f4ca8;
+  --primary-color: #2a5c47;
   --secondary-color: #6eff4aa8;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
@@ -86,4 +86,9 @@ p {
 
 .email-link:hover {
   text-decoration: underline;
+}
+#contact {
+  margin-top: 40px;
+  background-color: #b2b4b3;
+  padding: 20px;
 }
