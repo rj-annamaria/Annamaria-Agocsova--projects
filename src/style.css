@@ -1,16 +1,12 @@
 :root {
-  --primary-color: #591a8d;
-  --secondary-color: #b8c4c9;
+  --primary-color: #7f4ca8;
+  --secondary-color: #6eff4aa8;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
 body {
   margin-top: 100px;
   background-color: var(--secondary-color);
-}
-
-html {
-  background-color: aqua;
 }
 
 h1,
